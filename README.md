@@ -4,7 +4,7 @@ If you're going to be an occasional user, or mostly want to experiment with Open
 
 repl.it is a lightweight, browser based platform that can show off the power of rules as code without the technical commitment. 
 
-Here's how to use repl.it to install OpenFISCA (in this case, a core library).
+This is a *very quick guide* (< 10 mins) for how to use repl.it to install OpenFISCA (in this case, a core library).
 
 1. Get a repl.it account (it's free - no need for the paid functionality at this point)
 
@@ -35,6 +35,8 @@ You'll see repl.it pull the files from the Github repository in the console - se
 ![repl OpenFISCA install](/img/openfisca_tests.png)
 
 
-Great! If you've seen this image, you've successfully a. installed OpenFISCA and b. used it to run some tests, demoing its simulation capability. Good job!
+Great! If you've seen this image, you've successfully a. installed OpenFISCA and b. used it to run some tests, demoing its simulation capability. 
+
+Good job! 
 
 
