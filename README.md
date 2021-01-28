@@ -12,7 +12,7 @@ Here's how to use repl.it to install OpenFISCA (in this case, a core library).
 
 3. Import the following URL - https://github.com/energy-savings-scheme/openfisca_nsw_ess_core. This is a small repository which contains a few key variables and parameters used within the ESS.
 
-  It will automatically give the repl a unique name - note that all repls have to have unique names. It'll probably be something like openfisca_nsw_ess_core-6. Call    it whatever you like.
+It will automatically give the repl a unique name - note that all repls have to have unique names. It'll probably be something like openfisca_nsw_ess_core-6. Call    it whatever you like.
 
 4. It will open a new window with three parts - a file structure on the left, a README section in the middle, and a terminal on the right. 
 
