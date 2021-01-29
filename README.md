@@ -8,7 +8,9 @@ This is a *very quick guide* (< 10 mins) for how to use repl.it to install OpenF
 
 1. Get a repl.it account (it's free - no need for the paid functionality at this point)
 
-2. Create a new Python repository [repl] by clicking "create new Python". OpenFISCA, which we use to do Rules as Code within DPIE, is built on Python and Numpy. 
+2. Create a new Python repository by clicking "create new Python". OpenFISCA, which we use to do Rules as Code within DPIE, is built on Python and Numpy. 
+    
+    This will create a repl in repl.it. A repl is an instance of code created within repl.it.
 
 3. Import the following URL - https://github.com/energy-savings-scheme/openfisca_nsw_ess_core. This is a small repository which contains a few key variables and parameters used within the ESS.
 
