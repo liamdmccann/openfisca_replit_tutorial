@@ -12,9 +12,9 @@ This is a *very quick guide* (< 10 mins) for how to use repl.it to install OpenF
     
     This will create a repl in repl.it. A repl is an instance of code created within repl.it.
 
-3. Import the following URL - https://github.com/energy-savings-scheme/openfisca_nsw_ess_core. This is a small repository which contains a few key variables and parameters used within the ESS.
+3. Import the following URL - https://github.com/energy-savings-scheme/openfisca_nsw_safeguard. This is a small repository which contains a few key variables and parameters used within the ESS.
 
-    It will automatically give the repl a unique name - note that all repls have to have unique names. It'll probably be something like openfisca_nsw_ess_core-6. 
+    It will automatically give the repl a unique name - note that all repls have to have unique names. It'll probably be something like openfisca_nsw_safeguard-6. 
     
     Call it whatever you like.
 
